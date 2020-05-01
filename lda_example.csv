@@ -1,33 +1,33 @@
 index_num,line
-1,Intel?Cuts?Manufacturing?Costs?With?Big?Data
-2,Processor?giant?uses?big?data?to?develop?chips?faster?identify?manufacturing?glitches?and?warn?about?security?threats
-3,Intel?is?finding?big?value?in?big?data
-4,Over?the?past?two?years?the?company?has?developed?more?than?a?dozen?data?intensive?projects?that?have?bolstered?both?its?operational?efficiency?and?bottom?line
-5,According?to?Ron?Kasabian?general?manager?of?big?data?solutions?for?Intel?data?center?group?these?ongoing?efforts?have?resulted?in?millions?of?dollars?of?cost?savings
-6,We?started?the?year?before?last?realizing?we?had?an?opportunity?to?leverage?data?that?is?floating?around?the?enterprise?today?data?we?were?not?dealing?with?Kasabian?told?InformationWeek?in?a?phone?interview
-7,Intel?big?data?initiatives?are?summarized?in?the?company?2012?13?IT?annual?report?which?discusses?the?efforts?of?chipmaker??in?other?areas?such?as?cloud?computing
-8,Big?data?and?predictive?analytics?are?helping?Intel?bring?new?chips?to?market?faster?said?Kasabian
-9,We?run?a?huge?number?of?complicated?tests?on?every?single?chip?that?comes?through?the?manufacturing?process?he?said?And?as?we?are?ramping?up?new?chips?we?uncover?lots?of?bugs?and?fix?them
-10,Every?chip?Intel?makes?goes?through?a?quality?check?which?includes?an?extensive?series?of?tests?By?analyzing?historical?data?collected?during?manufacturing?Intel?can?reduce?the?number?of?tests?it?conducts
-11,We?are?taking?some?of?the?information?that?is?coming?out?of?the?manufacturing?process?for?those?pre?release?chips?and?looking?at?it?at?the?wafer?level?said?Kasabian
-12,Instead?of?running?every?single?chip?through?19000?tests?we?can?focus?tests?on?specific?chips?to?cut?down?test?time
-13,This?predictive?analytics?process?implemented?on?a?single?line?of?Intel?Core?processors?in?2012?allowed?Intel?to?save?$3?million?in?manufacturing?costs
-14,In?2013?14?Intel?expects?to?extend?the?process?to?more?chip?lines?and?save?an?additional?$30?million?the?company?said
-15,Data?intensive?processes?also?help?Intel?detect?failures?in?its?manufacturing?line?which?is?a?highly?automated?environment
-16,A?lot?of?what?we?are?doing?is?pulling?log?files?out?of?manufacturing?and?test?machines?said?Kasabian
-17,Across?our?entire?factory?network?we?are?talking?about?5?terabytes?an?hour?So?it?is?very?big?volume
-18,By?capturing?and?analyzing?this?information?Intel?can?determine?when?a?specific?step?in?one?of?its?manufacturing?processes?starts?to?deviate?from?normal?tolerances
-19,Big?data?benefits?Intel?security?efforts?too?The?company?says?its?big?data?platform?can?process?200?billion?server?events?and?provide?early?warning?of?security?threats?within?30?minutes
-20,Using?an?early?version?of?Intel?Hadoop?distribution?the?company?set?up?this?security?platform?in?mid?2012
-21,Across?the?entire?network?there?are?these?devices?called?NIDs?or?network?intrusion?devices?said?Kasabian
-22,They?are?little?devices?that?check?packets?flying?across?the?network
-23,We?are?pulling?all?this?data?across?thousands?of?these?devices?and?feeding?it?into?Hadoop
-24,After?using?Hadoop?to?capture?and?classify?the?data?Intel?extracts?the?relevant?information?and?loads?it?into?an?MPP?massive?parallel?processing?database
-25,We?are?looking?for?anomalies?said?Kasabian
-26,We?started?last?summer?with?server?anomalies?on?a?small?number?of?servers?
-27,By?the?end?of?the?summer?we?were?examining?pretty?much?all?the?servers?on?the?Intel?network
-28,Based?on?its?experiences?thus?far?Intel?believes?in?big?data?long?term?potential
-29,We?started?with?three?or?four?projects?in?2011?said?Kasabian
-30,In?2012?we?had?between?12?and?14?projects?that?together?represented?well?over?$100?million?dollars?in?value?to?Intel?either?in?cost?savings?or?cost?avoidance
-31,He?added:?We?are?just?beginning?to?scratch?the?surface
-32,Now?that?the?manufacturing?and?silicon?design?guys?understand?what?we?can?do?we?are?going?to?10?times?that?in?the?next?couple?of?years?no?question
+1,Intel Cuts Manufacturing Costs With Big Data
+2,Processor giant uses big data to develop chips faster identify manufacturing glitches and warn about security threats
+3,Intel is finding big value in big data
+4,Over the past two years the company has developed more than a dozen data intensive projects that have bolstered both its operational efficiency and bottom line
+5,According to Ron Kasabian general manager of big data solutions for Intel data center group these ongoing efforts have resulted in millions of dollars of cost savings
+6,We started the year before last realizing we had an opportunity to leverage data that is floating around the enterprise today data we were not dealing with Kasabian told InformationWeek in a phone interview
+7,Intel big data initiatives are summarized in the company 2012 13 IT annual report which discusses the efforts of chipmaker  in other areas such as cloud computing
+8,Big data and predictive analytics are helping Intel bring new chips to market faster said Kasabian
+9,We run a huge number of complicated tests on every single chip that comes through the manufacturing process he said And as we are ramping up new chips we uncover lots of bugs and fix them
+10,Every chip Intel makes goes through a quality check which includes an extensive series of tests By analyzing historical data collected during manufacturing Intel can reduce the number of tests it conducts
+11,We are taking some of the information that is coming out of the manufacturing process for those pre release chips and looking at it at the wafer level said Kasabian
+12,Instead of running every single chip through 19000 tests we can focus tests on specific chips to cut down test time
+13,This predictive analytics process implemented on a single line of Intel Core processors in 2012 allowed Intel to save $3 million in manufacturing costs
+14,In 2013 14 Intel expects to extend the process to more chip lines and save an additional $30 million the company said
+15,Data intensive processes also help Intel detect failures in its manufacturing line which is a highly automated environment
+16,A lot of what we are doing is pulling log files out of manufacturing and test machines said Kasabian
+17,Across our entire factory network we are talking about 5 terabytes an hour So it is very big volume
+18,By capturing and analyzing this information Intel can determine when a specific step in one of its manufacturing processes starts to deviate from normal tolerances
+19,Big data benefits Intel security efforts too The company says its big data platform can process 200 billion server events and provide early warning of security threats within 30 minutes
+20,Using an early version of Intel Hadoop distribution the company set up this security platform in mid 2012
+21,Across the entire network there are these devices called NIDs or network intrusion devices said Kasabian
+22,They are little devices that check packets flying across the network
+23,We are pulling all this data across thousands of these devices and feeding it into Hadoop
+24,After using Hadoop to capture and classify the data Intel extracts the relevant information and loads it into an MPP massive parallel processing database
+25,We are looking for anomalies said Kasabian
+26,We started last summer with server anomalies on a small number of servers 
+27,By the end of the summer we were examining pretty much all the servers on the Intel network
+28,Based on its experiences thus far Intel believes in big data long term potential
+29,We started with three or four projects in 2011 said Kasabian
+30,In 2012 we had between 12 and 14 projects that together represented well over $100 million dollars in value to Intel either in cost savings or cost avoidance
+31,He added: We are just beginning to scratch the surface
+32,Now that the manufacturing and silicon design guys understand what we can do we are going to 10 times that in the next couple of years no question
